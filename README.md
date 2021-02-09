@@ -4,15 +4,8 @@
 
 
 
-## about code
+#### [code&core](https://github.com/icehoo/me/projects/1) 代码习惯、语言特性、数据结构、算法、架构
 
-### 代码之道
+#### [IDE](https://github.com/icehoo/me/projects/2) IDE使用配置、效率提升，版本控制，神器
 
-[漏洞是怎么来的](https://github.com/icehoo/me/issues/1)
-
-
-
-### c#
-
-[async、Task、async Task一些结论](https://github.com/icehoo/me/issues/2)
-
+#### [notes](https://github.com/icehoo/me/projects/3) 读书笔记、学习笔记、博客笔记
