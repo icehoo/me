@@ -4,7 +4,7 @@
 
 
 
-#### [code&core](https://github.com/icehoo/me/projects/1) 代码习惯、语言特性、数据结构、算法、架构
+#### [code&core](https://github.com/icehoo/me/projects/1) 代码习惯、幺蛾子、语言特性、数据结构、算法、架构
 
 #### [IDE](https://github.com/icehoo/me/projects/2) IDE使用配置、效率提升，版本控制，神器
 
